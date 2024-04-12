@@ -8,6 +8,7 @@ This is a base template for starting new React projects. It comes pre-configured
 - **React DOM**: Provides DOM-specific methods that can be used at the top level of a web app to enable React components to be rendered into the DOM.
 - **React Helmet Async**: A package for managing document head tags in React.
 - **React Router DOM**: Declarative routing for React.
+- **React Prop-Types**: A library for typechecking React props and similar objects.
 
 ## Development Dependencies
 
@@ -34,11 +35,13 @@ cd Base-React-Project-Template
 npm install
 ```
 
-### 2.  Downloading as a .zip File
+### 2. Downloading as a .zip File
+
 1. Download the project folder as a .zip file from the repository.
 2. Extract the contents of the .zip file to your desired location on your local machine.
 3. Open a terminal and navigate to the extracted folder (Base-React-Project-Template).
 4. Install project dependencies:
+
 ```bash
 npm install
 ```
